@@ -3,7 +3,6 @@
 # contact @varshini20012006@gmail.com
 # Visit on github.com/varshini-varsh
 
-<!DOCTYPE html>
 <html>
     <head>
         <title> Grootan Test by Varshini</title>
